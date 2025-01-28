@@ -14,13 +14,15 @@ public class Calculator extends JFrame implements ActionListener {
     private double result = 0;
 
     public Calculator() {
+
         setTitle("Calculator");
-        setSize(300, 400);
+        setSize(350, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout()); 
 
         // Display Field
-        displayField = new JTextField(20);
+        displayField = new JTextField();
+        displayField.setPreferredSize(new Dimension(200, 70));
         displayField.setEditable(false);
         displayField.setFont(new Font("Arial", Font.PLAIN, 24)); 
         add(displayField, BorderLayout.NORTH);
@@ -28,21 +30,24 @@ public class Calculator extends JFrame implements ActionListener {
         // Number Buttons
         numberButtons = new JButton[10];
         JPanel numberPanel = new JPanel(new GridLayout(4, 3)); 
-        for (int i = 0; i < 10; i++) {
+
+        for (int i = 9; i >= 0; i--) {
             numberButtons[i] = new JButton(String.valueOf(i));
             numberButtons[i].setFont(new Font("Arial", Font.PLAIN, 18));
             numberButtons[i].addActionListener(this);
             numberPanel.add(numberButtons[i]);
         }
         add(numberPanel, BorderLayout.CENTER);
-
+ 
         // Operator Buttons
         operatorButtons = new JButton[4];
         operatorButtons[0] = new JButton("+");
         operatorButtons[1] = new JButton("-");
         operatorButtons[2] = new JButton("*");
         operatorButtons[3] = new JButton("/");
+
         JPanel operatorPanel = new JPanel(new GridLayout(4, 1)); 
+        
         for (JButton button : operatorButtons) {
             button.setFont(new Font("Arial", Font.PLAIN, 18));
             button.addActionListener(this);
@@ -50,7 +55,7 @@ public class Calculator extends JFrame implements ActionListener {
         }
         add(operatorPanel, BorderLayout.EAST);
 
-        // Other Buttons
+        // Buttons
         decimalButton = new JButton(".");
         decimalButton.setFont(new Font("Arial", Font.PLAIN, 18));
         decimalButton.addActionListener(this);
