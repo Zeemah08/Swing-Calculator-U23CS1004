@@ -8,4 +8,4 @@ Simple Java Calculator application using java GUI swing
 - Calculator Repo: [Calculator](https://github.com/Zeemah08/Swing-Calculator-U23CS1004)
 
 ## Screenshot
-![Calculator Image](./images/calculator-img.png)
+![Calculator Image](./images/calculator-img.PNG)
