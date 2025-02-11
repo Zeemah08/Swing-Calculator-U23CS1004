@@ -17,10 +17,31 @@ The Java Swing calculator app works by:
 
 In essence: The calculator app acts as an intermediary, translating user interactions (button clicks) into internal calculations and then displaying the results in a user-friendly format.
 
-- Author: Nureni Omowumi
-- Matriculation No: U23CS1004
-- Department: Computer Science
-- Github Acc: [@Zeemah08](https://github.com/Zeemah08)
+**CONTRIBUTORS:**
+_DEPARTMENT OF COMPUTER SCIENCE_
+
+ANISA HUSSAINI KWAMI, U22CS1063, @Kwams01
+
+MUHAMMED MUHAMMED MUKTAR, U23CS101, @muk-tar-77
+
+ASEMA KUMATOR, U23CS1002, @Jux-Asema
+
+LAWAL MUHAMMAD UBALE, U23CS1003, @Muhd ubale
+
+NURENI OMOWUMI, U23CS1004, @Zeemah08
+
+FATIMAH ADAM, U23CS1005, @FatimahAdam1
+
+SULEIMAN USMAN HAMIDU, U23CS1006, @Suleiboy09
+
+BASHIR ZAINAB ABDULRAHMAN, U3CS1007, @Zaynerb01
+
+AMEER MUHAMMAD USMAN, U23CS1008, @MuhammadAmeerUsman
+
+RODHIYA ABDULSHAHEED-TOLANI, U23CS1009, @Rodhiya07Aduke
+
+
+
 - Calculator Repo: [Calculator](https://github.com/Zeemah08/Swing-Calculator-U23CS1004)
 
 ## Screenshot
