@@ -20,25 +20,25 @@ In essence: The calculator app acts as an intermediary, translating user interac
 **CONTRIBUTORS:**
 _DEPARTMENT OF COMPUTER SCIENCE_
 
-ANISA HUSSAINI KWAMI, U22CS1063, @Kwams01
+ANISA HUSSAINI KWAMI, U22CS1063, [@Kwams01](https://github.com/Kwams01)
 
-MUHAMMED MUHAMMED MUKTAR, U23CS101, @muk-tar-77
+MUHAMMED MUHAMMED MUKTAR, U23CS101, [@muk-tar-77](https://github.com/muk-tar-77)
 
-ASEMA KUMATOR, U23CS1002, @Jux-Asema
+ASEMA KUMATOR, U23CS1002, [@Jux-Asema](https://github.com/Jux-Asema)
 
-LAWAL MUHAMMAD UBALE, U23CS1003, @Muhdubale
+LAWAL MUHAMMAD UBALE, U23CS1003, [@Muhdubale](https://github.com/Muhdubale)
 
-NURENI OMOWUMI, U23CS1004, @Zeemah08
+NURENI OMOWUMI, U23CS1004, [@Zeemah08](https://github.com/Zeemah08)
 
-FATIMAH ADAM, U23CS1005, @FatimahAdam1
+FATIMAH ADAM, U23CS1005, [@FatimahAdam1](https://github.com/FatimahAdam1)
 
-SULEIMAN USMAN HAMIDU, U23CS1006, @Suleiboy09
+SULEIMAN USMAN HAMIDU, U23CS1006, [@Suleiboy09](https://github.com/Suleiboy09)
 
-BASHIR ZAINAB ABDULRAHMAN, U3CS1007, @Zaynerb01
+BASHIR ZAINAB ABDULRAHMAN, U3CS1007, [@Zaynerb01](https://github.com/Zaynerb01)
 
-AMEER MUHAMMAD USMAN, U23CS1008, @MuhammadAmeerUsman
+AMEER MUHAMMAD USMAN, U23CS1008, [@MuhammadAmeerUsman](https://github.com/MuhammadAmeerUsman)
 
-RODHIYA ABDULSHAHEED-TOLANI, U23CS1009, @Rodhiya07Aduke
+RODHIYA ABDULSHAHEED-TOLANI, U23CS1009, [@Rodhiya07Aduke](https://github.com/Rodhiya07Aduke)
 
 
 
