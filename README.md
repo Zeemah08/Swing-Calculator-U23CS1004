@@ -26,7 +26,7 @@ MUHAMMED MUHAMMED MUKTAR, U23CS101, @muk-tar-77
 
 ASEMA KUMATOR, U23CS1002, @Jux-Asema
 
-LAWAL MUHAMMAD UBALE, U23CS1003, @Muhd ubale
+LAWAL MUHAMMAD UBALE, U23CS1003, @Muhdubale
 
 NURENI OMOWUMI, U23CS1004, @Zeemah08
 
@@ -42,7 +42,7 @@ RODHIYA ABDULSHAHEED-TOLANI, U23CS1009, @Rodhiya07Aduke
 
 
 
-- Calculator Repo: [Calculator](https://github.com/Zeemah08/Swing-Calculator-U23CS1004)
+- Calculator Repo: [Calculator](https://github.com/Zeemah08/Swing-Calculator-App)
 
 ## Screenshot
 ![Calculator Image](./images/calculator-pic.PNG)
