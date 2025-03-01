@@ -19,6 +19,8 @@ public class Calculator extends JFrame implements ActionListener {
         setSize(350, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout()); 
+        setResizable(false);
+
 
         // Display Field
         displayField = new JTextField();
